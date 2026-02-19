@@ -30,7 +30,7 @@ jobs:
         
 	# your task: figure out the remainings steps 
 	# that match your selected language. 
-	# Hint: follow slide 15 for inspiration
+	# Hint: follow slide 11 for inspiration
 	# You should first find an action that sets up the environment
 	# for your selected programming language. 
 	# You should then set up the steps to run similar to how you run
